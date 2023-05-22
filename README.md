@@ -1,5 +1,17 @@
 # 哈工大操作系统实验环境安装脚本
 
+---
+
+### 广告 Time！
+
+本人正在进行的两个项目：
+1. 基于 C 语言的 RV64 操作系统 Moonix（长期计划）：[Code](https://github.com/CN-GuoZiyang/Moonix), [Doc](https://cn-guoziyang.github.io/Moonix/#/)
+2. 基于 Java 语言的 RV64G 模拟器（WIP）：[Code](https://github.com/CN-GuoZiyang/rvemu)
+
+对以上以及相关项目感兴趣的可以联系我：邮箱 guoziyang0033@gmail.com, qq: 643157350
+
+---
+
 声明：本仓库用于配置哈工大操作系统实验所需环境，主要包含Bochs虚拟机和 Linux-0.11的源码
 
 本仓库基于[hoverwinter](https://github.com/hoverwinter)的一键配置脚本制作，制作过程中借鉴了[deathking](https://github.com/DeathKing)的一键配置脚本，修复了脚本在最新的Ubuntu与Debian上的一些问题，并添加了Arch系发行版支持，感谢两位大大的工作！
