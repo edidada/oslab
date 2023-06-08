@@ -35,6 +35,8 @@
 
 **最新：** 完成了在Windows Subsystem for Linux 2（**WSL2**）中的测试！
 
+> 注意，WSL2 的内核不支持 minix 文件系统，导致后面的实验会失败。这里可以参考我的[教程](https://blog.csdn.net/qq_40856284/article/details/106535962)自行编译 WSL 内核
+
 **注意：** 可能由于apt源的原因，本脚本无法在Deepin v20和UOS上使用。（ **并不是不支持国产！** ）
 
 ### 环境安装
